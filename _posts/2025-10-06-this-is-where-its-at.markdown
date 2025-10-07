@@ -2,7 +2,7 @@
 layout: post
 title: "This is where it's AT"
 date: 2025-10-06 20:41:31 -0500
-categories: personal development gamedev
+categories: gamedev
 ---
 
 Hi there! Welcome to Springer Mountain.
